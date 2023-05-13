@@ -1,0 +1,12 @@
+[submodule "submodules/lua/:~/.config/nvim-data/site/pack/packer/packer.nvim"]
+	path = submodules/lua/:~/.config/nvim-data/site/pack/packer/packer.nvim
+	url = https://github.com/wbthomason/packer.nvim
+[submodule "vendor/lua/:~/.config/nvim-data/site/pack/packer/packer.nvim"]
+	path = vendor/lua/:~/.config/nvim-data/site/pack/packer/packer.nvim
+	url = https://github.com/wbthomason/packer.nvim
+[submodule "vendor/lua/:~/.config/nvim.data/site/pack/packer/packer.nvim"]
+	path = vendor/lua/:~/.config/nvim.data/site/pack/packer/packer.nvim
+	url = https://github.com/wbthomason/packer.nvim
+[submodule "vendor/packer.nvim"]
+	path = vendor/packer.nvim
+	url = https://github.com/wbthomason/packer.nvim
